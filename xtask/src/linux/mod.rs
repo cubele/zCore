@@ -33,7 +33,7 @@ impl LinuxRootfs {
         // 准备最小系统需要的资源
         let musl = self.0.linux_musl_cross();
         let busybox = self.busybox(&musl);
-        let symbol_table = self.symbol_table();
+        let zcore_obj = self.zcore_obj();
         // 创建目标目录
         let bin = dir.join("bin");
         let lib = dir.join("lib");
@@ -43,7 +43,7 @@ impl LinuxRootfs {
         // 拷贝 busybox
         fs::copy(busybox, bin.join("busybox")).unwrap();
         // 拷贝 symbol table
-        fs::copy(symbol_table, self.path().join("kernel.sym")).unwrap();
+        fs::copy(zcore_obj, self.path().join("zcore")).unwrap();
         // 拷贝 libc.so
         let from = musl
             .join(format!("{}-linux-musl", self.0.name()))
@@ -79,8 +79,8 @@ impl LinuxRootfs {
         PROJECT_DIR.join("rootfs").join(self.0.name())
     }
 
-    fn symbol_table(&self) -> PathBuf {
-        PROJECT_DIR.join("ignored").join("dump").join("kernel.sym")
+    fn zcore_obj(&self) -> PathBuf {
+        PROJECT_DIR.join("target").join(self.0.name()).join("release").join("zcore")
     }
 
     /// 编译 busybox。

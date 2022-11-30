@@ -39,7 +39,6 @@ lock = { git = "https://github.com/DeathWish5/kernel-sync", rev = "8486b8" }
 trapframe = "0.9.0"
 dyn-fmt = { version = "0.3.0", default-features = false }
 
-
 [dev-dependencies]
 async-std = { version = "1.10", features = ["attributes", "unstable"] }
 
