@@ -1,0 +1,2360 @@
+   Compiling libc v0.2.137
+   Compiling autocfg v1.1.0
+   Compiling cfg-if v1.0.0
+   Compiling proc-macro2 v1.0.47
+   Compiling quote v1.0.21
+   Compiling unicode-ident v1.0.5
+   Compiling pkg-config v0.3.26
+   Compiling log v0.4.17
+   Compiling scopeguard v1.1.0
+   Compiling syn v1.0.103
+   Compiling version_check v0.9.4
+   Compiling crossbeam-utils v0.8.12
+   Compiling tinyvec_macros v0.1.0
+   Compiling unicode-xid v0.2.4
+   Compiling bitflags v1.3.2
+   Compiling unicode-bidi v0.3.8
+   Compiling memchr v2.5.0
+   Compiling tinyvec v1.6.0
+   Compiling radium v0.6.2
+   Compiling rayon-core v1.9.3
+   Compiling percent-encoding v2.2.0
+   Compiling form_urlencoded v1.1.0
+   Compiling tap v1.0.1
+   Compiling proc-macro-hack v0.5.19
+   Compiling crossbeam-queue v0.3.6
+   Compiling wyz v0.4.0
+   Compiling proc-macro-error-attr v1.0.4
+   Compiling proc-macro-error v1.0.4
+   Compiling num-traits v0.2.15
+   Compiling num-integer v0.1.45
+   Compiling memoffset v0.6.5
+   Compiling lock_api v0.4.9
+   Compiling crossbeam-epoch v0.9.11
+   Compiling crossbeam-channel v0.5.6
+   Compiling unicode-normalization v0.1.22
+   Compiling rayon v1.5.3
+   Compiling jobserver v0.1.25
+   Compiling atty v0.2.14
+   Compiling time v0.1.44
+   Compiling num_cpus v1.13.1
+   Compiling cc v1.0.74
+   Compiling spin v0.9.4
+   Compiling idna v0.3.0
+   Compiling iana-time-zone v0.1.53
+   Compiling funty v1.2.0
+   Compiling unicode-segmentation v1.10.0
+   Compiling serde v1.0.147
+   Compiling unicode-width v0.1.10
+   Compiling rcore-fs v0.1.0 (https://github.com/rcore-os/rcore-fs?rev=1a3246b#1a3246b1)
+   Compiling const_format_proc_macros v0.2.29
+   Compiling crossbeam-deque v0.8.2
+   Compiling textwrap v0.11.0
+   Compiling url v2.3.1
+   Compiling heck v0.3.3
+   Compiling bitvec v0.22.3
+   Compiling getrandom v0.2.8
+   Compiling aho-corasick v0.7.19
+   Compiling chrono v0.4.22
+   Compiling strsim v0.8.0
+   Compiling static_assertions v1.1.0
+   Compiling regex-syntax v0.6.27
+   Compiling termcolor v1.1.3
+   Compiling vec_map v0.8.2
+   Compiling either v1.8.0
+   Compiling ansi_term v0.12.1
+   Compiling is_debug v1.0.1
+   Compiling libz-sys v1.1.8
+   Compiling libgit2-sys v0.13.4+1.4.2
+   Compiling serde_derive v1.0.147
+   Compiling clap v2.34.0
+   Compiling crossbeam v0.8.2
+   Compiling const_format v0.2.30
+   Compiling rand_core v0.6.4
+   Compiling ppv-lite86 v0.2.16
+   Compiling once_cell v1.16.0
+   Compiling os_str_bytes v6.3.1
+   Compiling regex v1.6.0
+   Compiling same-file v1.0.6
+   Compiling humantime v2.1.0
+   Compiling time-core v0.1.0
+   Compiling heck v0.4.0
+   Compiling lazy_static v1.4.0
+   Compiling num_threads v0.1.6
+   Compiling rcore-fs-sfs v0.1.0 (https://github.com/rcore-os/rcore-fs?rev=1a3246b#1a3246b1)
+   Compiling rcore-fs-sefs v0.1.0 (https://github.com/rcore-os/rcore-fs?rev=1a3246b#1a3246b1)
+   Compiling walkdir v2.3.2
+   Compiling time v0.3.16
+   Compiling rand_chacha v0.3.1
+   Compiling clap_lex v0.3.0
+   Compiling env_logger v0.9.1
+   Compiling rcore-fs-ramfs v0.1.0 (https://github.com/rcore-os/rcore-fs?rev=1a3246b#1a3246b1)
+   Compiling strsim v0.10.0
+   Compiling rand v0.8.5
+   Compiling os-xtask-utils v0.0.0
+   Compiling jwalk v0.6.0
+   Compiling dircpy v0.3.13
+   Compiling toml v0.5.9
+   Compiling git-version-macro v0.3.5
+   Compiling structopt-derive v0.4.18
+   Compiling clap_derive v4.0.18
+   Compiling git-version v0.3.5
+   Compiling structopt v0.3.26
+   Compiling rcore-fs-fuse v0.1.0 (https://github.com/rcore-os/rcore-fs?rev=1a3246b#1a3246b1)
+   Compiling clap v4.0.18
+   Compiling z-config v0.1.0 (/home/ssf/zCore/z-config)
+   Compiling git2 v0.14.4
+   Compiling shadow-rs v0.11.0
+   Compiling xtask v0.1.0 (/home/ssf/zCore/xtask)
+    Finished release [optimized + debuginfo] target(s) in 37.70s
+     Running `target/release/xtask qemu --arch=riscv64`
+ Downloading crates ...
+  Downloaded cc v1.0.76
+  Downloaded libc v0.2.135
+  Downloaded compiler_builtins v0.1.84
+   Compiling compiler_builtins v0.1.84
+   Compiling core v0.0.0 (/home/ssf/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core)
+   Compiling log v0.4.17
+   Compiling proc-macro2 v1.0.47
+   Compiling syn v1.0.103
+   Compiling regex-syntax v0.6.27
+   Compiling spin v0.5.2
+   Compiling futures-core v0.3.25
+   Compiling riscv v0.8.0
+   Compiling memchr v2.5.0
+   Compiling futures-task v0.3.25
+   Compiling riscv v0.9.0
+   Compiling futures-util v0.3.25
+   Compiling trapframe v0.9.0
+   Compiling futures-channel v0.3.25
+   Compiling riscv v0.8.0 (https://github.com/yesh0/riscv?rev=9eebb5c202b04832f01858536aeb8a1e3c5eccf6#9eebb5c2)
+   Compiling lazy_static v1.4.0
+   Compiling async-trait v0.1.58
+   Compiling linux-syscall v0.1.0 (/home/ssf/zCore/linux-syscall)
+   Compiling zcore v0.1.0 (/home/ssf/zCore/zCore)
+   Compiling lock_api v0.4.9
+   Compiling radium v0.6.2
+   Compiling aho-corasick v0.7.19
+   Compiling quote v1.0.21
+   Compiling regex v1.6.0
+   Compiling riscv-target v0.1.2
+   Compiling riscv v0.7.0 (https://github.com/rust-embedded/riscv?rev=cd31989ba1#cd31989b)
+   Compiling git-version-macro v0.3.5
+   Compiling futures-macro v0.3.25
+   Compiling rustc-std-workspace-core v1.99.0 (/home/ssf/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/rustc-std-workspace-core)
+   Compiling alloc v0.0.0 (/home/ssf/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/alloc)
+   Compiling cfg-if v1.0.0
+   Compiling scopeguard v1.1.0
+   Compiling nb v1.0.0
+   Compiling bit_field v0.10.1
+   Compiling void v1.0.2
+   Compiling bare-metal v1.0.0
+   Compiling bitflags v1.3.2
+   Compiling static_assertions v1.1.0
+   Compiling volatile v0.3.0
+   Compiling byteorder v1.4.3
+   Compiling uniset v0.2.0 (https://github.com/pleasewhy/uniset?rev=40edbd7506979daa1d49f935b568873a6a21c5c0#40edbd75)
+   Compiling managed v0.8.0
+   Compiling futures-sink v0.3.25
+   Compiling nb v0.1.3
+   Compiling pin-utils v0.1.0
+   Compiling sbi-spec v0.0.4
+   Compiling device_tree v1.0.3 (https://github.com/rcore-os/device_tree-rs?rev=2f2e55f#2f2e55fb)
+   Compiling bit-iter v1.1.1
+   Compiling tap v1.0.1
+   Compiling numeric-enum-macro v0.2.0
+   Compiling pin-project-lite v0.2.9
+   Compiling embedded-hal v0.2.7
+   Compiling bitmap-allocator v0.1.0 (https://github.com/rcore-os/bitmap-allocator?rev=88e871a5#88e871a5)
+   Compiling unicycle v0.7.1 (https://github.com/pleasewhy/unicycle?rev=904f1c061d4784a5642e092d308cf523a9270c6e#904f1c06)
+   Compiling woke v0.0.2
+   Compiling sbi-rt v0.0.2
+   Compiling virtio-drivers v0.1.0 (https://github.com/rcore-os/virtio-drivers?rev=2aaf7d6#2aaf7d60)
+   Compiling smoltcp v0.8.0 (https://github.com/smoltcp-rs/smoltcp?rev=35e833e3#35e833e3)
+   Compiling pci v0.0.1 (https://github.com/elliott10/pci-rs?rev=8f33774b#8f33774b)
+   Compiling wyz v0.4.0
+   Compiling spin v0.9.4
+   Compiling rvjit v0.1.0 (https://github.com/latte-c/rvjit?rev=58e145d#58e145d7)
+   Compiling git-version v0.3.5
+   Compiling zero v0.1.2
+   Compiling naive-timer v0.2.0
+   Compiling funty v1.2.0
+   Compiling ahash v0.4.7
+   Compiling futures-io v0.3.25
+   Compiling rcore-fs v0.1.0 (https://github.com/rcore-os/rcore-fs?rev=1a3246b#1a3246b1)
+   Compiling isomorphic_drivers v0.1.0 (https://github.com/rcore-os/isomorphic_drivers?rev=f7cd97a8#f7cd97a8)
+   Compiling xmas-elf v0.7.0
+   Compiling ebpf2rv v0.1.0 (https://github.com/latte-c/ebpf2rv?rev=50a7de5#50a7de5d)
+   Compiling dyn-fmt v0.3.0
+   Compiling hashbrown v0.9.1
+   Compiling downcast-rs v1.2.0
+   Compiling region-alloc v0.1.0 (https://github.com/rzswh/region-allocator?rev=122c7a71#122c7a71)
+   Compiling executor v0.1.0 (https://github.com/DeathWish5/PreemptiveScheduler?rev=e8cd353#e8cd3531)
+   Compiling lock v0.1.0 (https://github.com/DeathWish5/kernel-sync?rev=8486b8#8486b817)
+   Compiling riscv-decode v0.2.0 (https://github.com/latte-c/riscv-decode?rev=bc8da4e#bc8da4e1)
+   Compiling rcore-fs-mountfs v0.1.0 (https://github.com/rcore-os/rcore-fs?rev=1a3246b#1a3246b1)
+   Compiling bitvec v0.22.3
+   Compiling rcore-fs-ramfs v0.1.0 (https://github.com/rcore-os/rcore-fs?rev=1a3246b#1a3246b1)
+   Compiling rcore-fs-devfs v0.1.0 (https://github.com/rcore-os/rcore-fs?rev=1a3246b#1a3246b1)
+   Compiling gimli v0.27.0
+   Compiling page-table v0.0.6
+   Compiling customizable-buddy v0.0.3
+error[E0463]: can't find crate for `std`
+  |
+  = note: the `riscv64` target may not support the standard library
+  = note: `std` is required by `memchr` because it does not declare `#![no_std]`
+  = help: consider building the standard library from source with `cargo build -Zbuild-std`
+
+   Compiling r0 v1.0.0
+error: cannot find attribute `derive` in this scope
+ --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/cow.rs:9:3
+  |
+9 | #[derive(Clone, Debug)]
+  |   ^^^^^^
+  |
+  = note: consider importing this attribute macro:
+          core::prelude::rust_2024::derive
+
+   Compiling dtb-walker v0.2.0-alpha.3
+error: cannot find attribute `derive` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/cow.rs:16:3
+   |
+16 | #[derive(Clone, Debug)]
+   |   ^^^^^^
+   |
+   = note: consider importing this attribute macro:
+           core::prelude::rust_2024::derive
+
+error: cannot find macro `debug_assert` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:66:9
+   |
+66 |         debug_assert!(ptr > start_ptr);
+   |         ^^^^^^^^^^^^
+   |
+   = note: consider importing this macro:
+           core::debug_assert
+
+error: cannot find macro `debug_assert` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:67:9
+   |
+67 |         debug_assert!(end_ptr.sub(USIZE_BYTES) >= start_ptr);
+   |         ^^^^^^^^^^^^
+   |
+   = note: consider importing this macro:
+           core::debug_assert
+
+error: cannot find macro `debug_assert_eq` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:69:13
+   |
+69 |             debug_assert_eq!(0, (ptr as usize) % USIZE_BYTES);
+   |             ^^^^^^^^^^^^^^^
+   |
+   = note: consider importing this macro:
+           core::debug_assert_eq
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:107:9
+    |
+107 |         debug_assert!(ptr > start_ptr);
+    |         ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:108:9
+    |
+108 |         debug_assert!(end_ptr.sub(USIZE_BYTES) >= start_ptr);
+    |         ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find macro `debug_assert_eq` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:110:13
+    |
+110 |             debug_assert_eq!(0, (ptr as usize) % USIZE_BYTES);
+    |             ^^^^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert_eq
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:149:9
+    |
+149 |         debug_assert!(ptr > start_ptr);
+    |         ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:150:9
+    |
+150 |         debug_assert!(end_ptr.sub(USIZE_BYTES) >= start_ptr);
+    |         ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find macro `debug_assert_eq` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:152:13
+    |
+152 |             debug_assert_eq!(0, (ptr as usize) % USIZE_BYTES);
+    |             ^^^^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert_eq
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:188:9
+    |
+188 |         debug_assert!(start_ptr <= ptr && ptr <= end_ptr);
+    |         ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find macro `debug_assert_eq` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:190:13
+    |
+190 |             debug_assert_eq!(0, (ptr as usize) % USIZE_BYTES);
+    |             ^^^^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert_eq
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:228:9
+    |
+228 |         debug_assert!(start_ptr <= ptr && ptr <= end_ptr);
+    |         ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find macro `debug_assert_eq` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:230:13
+    |
+230 |             debug_assert_eq!(0, (ptr as usize) % USIZE_BYTES);
+    |             ^^^^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert_eq
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:269:9
+    |
+269 |         debug_assert!(start_ptr <= ptr && ptr <= end_ptr);
+    |         ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find macro `debug_assert_eq` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:271:13
+    |
+271 |             debug_assert_eq!(0, (ptr as usize) % USIZE_BYTES);
+    |             ^^^^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert_eq
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:293:5
+    |
+293 |     debug_assert!(start_ptr <= ptr);
+    |     ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:294:5
+    |
+294 |     debug_assert!(ptr <= end_ptr);
+    |     ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:312:5
+    |
+312 |     debug_assert!(start_ptr <= ptr);
+    |     ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:313:5
+    |
+313 |     debug_assert!(ptr <= end_ptr);
+    |     ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:327:5
+    |
+327 |     debug_assert!(a >= b);
+    |     ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find attribute `derive` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/prefilter/mod.rs:73:3
+   |
+73 | #[derive(Clone, Copy)]
+   |   ^^^^^^
+   |
+   = note: consider importing this attribute macro:
+           core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/prefilter/mod.rs:168:3
+    |
+168 | #[derive(Clone, Copy, Debug)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/prefilter/mod.rs:203:3
+    |
+203 | #[derive(Clone, Debug)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/rabinkarp.rs:104:3
+    |
+104 | #[derive(Clone, Copy, Debug, Default)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/rabinkarp.rs:154:3
+    |
+154 | #[derive(Clone, Copy, Debug, Default, Eq, PartialEq)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/rarebytes.rs:14:3
+   |
+14 | #[derive(Clone, Copy, Debug, Default)]
+   |   ^^^^^^
+   |
+   = note: consider importing this attribute macro:
+           core::prelude::rust_2024::derive
+
+error: cannot find macro `assert_ne` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/rarebytes.rs:84:9
+   |
+84 |         assert_ne!(rare1i, rare2i);
+   |         ^^^^^^^^^
+   |
+   = note: consider importing this macro:
+           core::assert_ne
+
+error: cannot find attribute `derive` in this scope
+ --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:6:3
+  |
+6 | #[derive(Clone, Copy, Debug)]
+  |   ^^^^^^
+  |
+  = note: consider importing this attribute macro:
+          core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:10:3
+   |
+10 | #[derive(Clone, Copy, Debug)]
+   |   ^^^^^^
+   |
+   = note: consider importing this attribute macro:
+           core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:48:3
+   |
+48 | #[derive(Clone, Copy, Debug)]
+   |   ^^^^^^
+   |
+   = note: consider importing this attribute macro:
+           core::prelude::rust_2024::derive
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:113:9
+    |
+113 |         debug_assert!(!needle.is_empty(), "needle should not be empty");
+    |         ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:114:9
+    |
+114 |         debug_assert!(needle.len() <= haystack.len(), "haystack too short");
+    |         ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:280:9
+    |
+280 |         debug_assert!(!needle.is_empty(), "needle should not be empty");
+    |         ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:281:9
+    |
+281 |         debug_assert!(needle.len() <= haystack.len(), "haystack too short");
+    |         ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:423:3
+    |
+423 | #[derive(Clone, Copy, Debug)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:478:3
+    |
+478 | #[derive(Debug)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:497:9
+    |
+497 |         debug_assert!(!needle.is_empty());
+    |         ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find macro `debug_assert` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:547:9
+    |
+547 |         debug_assert!(!needle.is_empty());
+    |         ^^^^^^^^^^^^
+    |
+    = note: consider importing this macro:
+            core::debug_assert
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:586:3
+    |
+586 | #[derive(Clone, Copy, Debug)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:605:3
+    |
+605 | #[derive(Clone, Copy, Debug)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+   Compiling zcore-drivers v0.1.0 (/home/ssf/zCore/drivers)
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:647:3
+    |
+647 | #[derive(Clone, Copy, Debug)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:310:3
+    |
+310 | #[derive(Debug)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:375:3
+    |
+375 | #[derive(Debug)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:448:3
+    |
+448 | #[derive(Clone, Debug)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:575:3
+    |
+575 | #[derive(Clone, Debug)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:698:3
+    |
+698 | #[derive(Clone, Debug, Default)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:743:3
+    |
+743 | #[derive(Clone, Debug)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:766:3
+    |
+766 | #[derive(Clone, Copy, Debug)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:792:3
+    |
+792 | #[derive(Clone, Copy, Debug, Default)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:799:3
+    |
+799 | #[derive(Clone, Debug)]
+    |   ^^^^^^
+    |
+    = note: consider importing this attribute macro:
+            core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+    --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:1028:3
+     |
+1028 | #[derive(Clone, Debug)]
+     |   ^^^^^^
+     |
+     = note: consider importing this attribute macro:
+             core::prelude::rust_2024::derive
+
+error: cannot find attribute `derive` in this scope
+    --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:1038:3
+     |
+1038 | #[derive(Clone, Debug)]
+     |   ^^^^^^
+     |
+     = note: consider importing this attribute macro:
+             core::prelude::rust_2024::derive
+
+   Compiling futures v0.3.25
+   Compiling kernel-hal v0.1.0 (/home/ssf/zCore/kernel-hal)
+   Compiling rcore-fs-sfs v0.1.0 (https://github.com/rcore-os/rcore-fs?rev=1a3246b#1a3246b1)
+error[E0433]: failed to resolve: use of undeclared type `Box`
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/cow.rs:64:53
+   |
+64 |             Imp::Borrowed(b) => CowBytes::new_owned(Box::from(b)),
+   |                                                     ^^^ use of undeclared type `Box`
+
+   Compiling zircon-object v0.1.0 (/home/ssf/zCore/zircon-object)
+warning: the feature `map_first_last` has been stable since 1.66.0 and no longer requires an attribute to enable
+  --> zircon-object/src/lib.rs:11:12
+   |
+11 | #![feature(map_first_last)]
+   |            ^^^^^^^^^^^^^^
+   |
+   = note: `#[warn(stable_features)]` on by default
+
+error: instruction requires the following: 'C' (Compressed Instructions)
+    c.addi16sp sp, -32
+    ^
+error: instruction requires the following: 'C' (Compressed Instructions)
+    c.addi16sp sp, 32
+    ^
+error: instruction requires the following: 'C' (Compressed Instructions)
+    c.addi16sp sp, -32
+    ^
+error: instruction requires the following: 'C' (Compressed Instructions)
+    c.addi16sp sp, 32
+    ^
+error: instruction requires the following: 'C' (Compressed Instructions)
+    c.addi16sp sp, -32
+    ^
+error: instruction requires the following: 'C' (Compressed Instructions)
+    c.addi16sp sp, 32
+    ^
+warning: `zircon-object` (lib) generated 1 warning
+error[E0412]: cannot find type `Box` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/cow.rs:19:11
+   |
+19 |     Owned(Box<[u8]>),
+   |           ^^^ not found in this scope
+
+error[E0405]: cannot find trait `Sized` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/cow.rs:38:20
+   |
+38 |     pub fn new<B: ?Sized + AsRef<[u8]>>(bytes: &'a B) -> CowBytes<'a> {
+   |                    ^^^^^ not found in this scope
+   |
+help: consider importing this trait
+   |
+1  | use core::marker::Sized;
+   |
+
+error[E0405]: cannot find trait `AsRef` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/cow.rs:38:28
+   |
+38 |     pub fn new<B: ?Sized + AsRef<[u8]>>(bytes: &'a B) -> CowBytes<'a> {
+   |                            ^^^^^ not found in this scope
+   |
+help: consider importing this trait
+   |
+1  | use core::convert::AsRef;
+   |
+
+error[E0412]: cannot find type `Box` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/cow.rs:45:29
+   |
+45 |     pub fn new_owned(bytes: Box<[u8]>) -> CowBytes<'static> {
+   |                             ^^^ not found in this scope
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:46:43
+   |
+46 | pub fn memchr(n1: u8, haystack: &[u8]) -> Option<usize> {
+   |                                           ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+5  | use core::option::Option;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:85:52
+   |
+85 | pub fn memchr2(n1: u8, n2: u8, haystack: &[u8]) -> Option<usize> {
+   |                                                    ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+5  | use core::option::Option;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:125:60
+    |
+125 | pub fn memchr3(n1: u8, n2: u8, n3: u8, haystack: &[u8]) -> Option<usize> {
+    |                                                            ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+5   | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:168:44
+    |
+168 | pub fn memrchr(n1: u8, haystack: &[u8]) -> Option<usize> {
+    |                                            ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+5   | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:206:53
+    |
+206 | pub fn memrchr2(n1: u8, n2: u8, haystack: &[u8]) -> Option<usize> {
+    |                                                     ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+5   | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:245:61
+    |
+245 | pub fn memrchr3(n1: u8, n2: u8, n3: u8, haystack: &[u8]) -> Option<usize> {
+    |                                                             ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+5   | use core::option::Option;
+    |
+
+error[E0405]: cannot find trait `Fn` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:287:29
+    |
+287 | unsafe fn forward_search<F: Fn(u8) -> bool>(
+    |                             ^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+5   | use core::ops::Fn;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:292:6
+    |
+292 | ) -> Option<usize> {
+    |      ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+5   | use core::option::Option;
+    |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:298:20
+    |
+298 |             return Some(sub(ptr, start_ptr));
+    |                    ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+5   | use core::option::Option::Some;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:302:5
+    |
+302 |     None
+    |     ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+5   | use core::option::Option::None;
+    |
+5   | use crate::memmem::Prefilter::None;
+    |
+
+error[E0405]: cannot find trait `Fn` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:306:29
+    |
+306 | unsafe fn reverse_search<F: Fn(u8) -> bool>(
+    |                             ^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+5   | use core::ops::Fn;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:311:6
+    |
+311 | ) -> Option<usize> {
+    |      ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+5   | use core::option::Option;
+    |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:318:20
+    |
+318 |             return Some(sub(ptr, start_ptr));
+    |                    ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+5   | use core::option::Option::Some;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/fallback.rs:321:5
+    |
+321 |     None
+    |     ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+5   | use core::option::Option::None;
+    |
+5   | use crate::memmem::Prefilter::None;
+    |
+
+error[E0405]: cannot find trait `Iterator` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:50:10
+   |
+50 | impl<'a> Iterator for Memchr<'a> {
+   |          ^^^^^^^^ not found in this scope
+   |
+help: consider importing this trait
+   |
+1  | use core::iter::Iterator;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:54:27
+   |
+54 |     fn next(&mut self) -> Option<usize> {
+   |                           ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+1  | use core::option::Option;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:59:36
+   |
+59 |     fn size_hint(&self) -> (usize, Option<usize>) {
+   |                                    ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+1  | use core::option::Option;
+   |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:60:13
+   |
+60 |         (0, Some(self.haystack.len()))
+   |             ^^^^ not found in this scope
+   |
+help: consider importing this tuple variant
+   |
+1  | use core::option::Option::Some;
+   |
+
+error[E0405]: cannot find trait `DoubleEndedIterator` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:64:10
+   |
+64 | impl<'a> DoubleEndedIterator for Memchr<'a> {
+   |          ^^^^^^^^^^^^^^^^^^^ not found in this scope
+   |
+help: consider importing this trait
+   |
+1  | use core::iter::DoubleEndedIterator;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:66:32
+   |
+66 |     fn next_back(&mut self) -> Option<Self::Item> {
+   |                                ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+1  | use core::option::Option;
+   |
+
+error[E0405]: cannot find trait `Iterator` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:94:10
+   |
+94 | impl<'a> Iterator for Memchr2<'a> {
+   |          ^^^^^^^^ not found in this scope
+   |
+help: consider importing this trait
+   |
+1  | use core::iter::Iterator;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:98:27
+   |
+98 |     fn next(&mut self) -> Option<usize> {
+   |                           ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+1  | use core::option::Option;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:103:36
+    |
+103 |     fn size_hint(&self) -> (usize, Option<usize>) {
+    |                                    ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:104:13
+    |
+104 |         (0, Some(self.haystack.len()))
+    |             ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+1   | use core::option::Option::Some;
+    |
+
+error[E0405]: cannot find trait `DoubleEndedIterator` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:108:10
+    |
+108 | impl<'a> DoubleEndedIterator for Memchr2<'a> {
+    |          ^^^^^^^^^^^^^^^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+1   | use core::iter::DoubleEndedIterator;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:110:32
+    |
+110 |     fn next_back(&mut self) -> Option<Self::Item> {
+    |                                ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0405]: cannot find trait `Iterator` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:148:10
+    |
+148 | impl<'a> Iterator for Memchr3<'a> {
+    |          ^^^^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+1   | use core::iter::Iterator;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:152:27
+    |
+152 |     fn next(&mut self) -> Option<usize> {
+    |                           ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:160:36
+    |
+160 |     fn size_hint(&self) -> (usize, Option<usize>) {
+    |                                    ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:161:13
+    |
+161 |         (0, Some(self.haystack.len()))
+    |             ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+1   | use core::option::Option::Some;
+    |
+
+error[E0405]: cannot find trait `DoubleEndedIterator` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:165:10
+    |
+165 | impl<'a> DoubleEndedIterator for Memchr3<'a> {
+    |          ^^^^^^^^^^^^^^^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+1   | use core::iter::DoubleEndedIterator;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/iter.rs:167:32
+    |
+167 |     fn next_back(&mut self) -> Option<Self::Item> {
+    |                                ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+ --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/naive.rs:3:43
+  |
+3 | pub fn memchr(n1: u8, haystack: &[u8]) -> Option<usize> {
+  |                                           ^^^^^^ not found in this scope
+  |
+help: consider importing this enum
+  |
+3 | use core::option::Option;
+  |
+
+error[E0412]: cannot find type `Option` in this scope
+ --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/naive.rs:7:52
+  |
+7 | pub fn memchr2(n1: u8, n2: u8, haystack: &[u8]) -> Option<usize> {
+  |                                                    ^^^^^^ not found in this scope
+  |
+help: consider importing this enum
+  |
+3 | use core::option::Option;
+  |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/naive.rs:11:60
+   |
+11 | pub fn memchr3(n1: u8, n2: u8, n3: u8, haystack: &[u8]) -> Option<usize> {
+   |                                                            ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+3  | use core::option::Option;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/naive.rs:15:44
+   |
+15 | pub fn memrchr(n1: u8, haystack: &[u8]) -> Option<usize> {
+   |                                            ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+3  | use core::option::Option;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/naive.rs:19:53
+   |
+19 | pub fn memrchr2(n1: u8, n2: u8, haystack: &[u8]) -> Option<usize> {
+   |                                                     ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+3  | use core::option::Option;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/naive.rs:23:61
+   |
+23 | pub fn memrchr3(n1: u8, n2: u8, n3: u8, haystack: &[u8]) -> Option<usize> {
+   |                                                             ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+3  | use core::option::Option;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:87:47
+   |
+87 | pub fn memchr(needle: u8, haystack: &[u8]) -> Option<usize> {
+   |                                               ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+1  | use core::option::Option;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:116:40
+    |
+116 |     fn imp(n1: u8, haystack: &[u8]) -> Option<usize> {
+    |                                        ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:121:9
+    |
+121 |         None
+    |         ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+1   | use core::option::Option::None;
+    |
+1   | use crate::memmem::Prefilter::None;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:151:62
+    |
+151 | pub fn memchr2(needle1: u8, needle2: u8, haystack: &[u8]) -> Option<usize> {
+    |                                                              ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:169:48
+    |
+169 |     fn imp(n1: u8, n2: u8, haystack: &[u8]) -> Option<usize> {
+    |                                                ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:174:9
+    |
+174 |         None
+    |         ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+1   | use core::option::Option::None;
+    |
+1   | use crate::memmem::Prefilter::None;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:209:6
+    |
+209 | ) -> Option<usize> {
+    |      ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:227:56
+    |
+227 |     fn imp(n1: u8, n2: u8, n3: u8, haystack: &[u8]) -> Option<usize> {
+    |                                                        ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:232:9
+    |
+232 |         None
+    |         ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+1   | use core::option::Option::None;
+    |
+1   | use crate::memmem::Prefilter::None;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:260:48
+    |
+260 | pub fn memrchr(needle: u8, haystack: &[u8]) -> Option<usize> {
+    |                                                ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:290:40
+    |
+290 |     fn imp(n1: u8, haystack: &[u8]) -> Option<usize> {
+    |                                        ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:295:9
+    |
+295 |         None
+    |         ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+1   | use core::option::Option::None;
+    |
+1   | use crate::memmem::Prefilter::None;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:325:63
+    |
+325 | pub fn memrchr2(needle1: u8, needle2: u8, haystack: &[u8]) -> Option<usize> {
+    |                                                               ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:343:48
+    |
+343 |     fn imp(n1: u8, n2: u8, haystack: &[u8]) -> Option<usize> {
+    |                                                ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:348:9
+    |
+348 |         None
+    |         ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+1   | use core::option::Option::None;
+    |
+1   | use crate::memmem::Prefilter::None;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:383:6
+    |
+383 | ) -> Option<usize> {
+    |      ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:401:56
+    |
+401 |     fn imp(n1: u8, n2: u8, n3: u8, haystack: &[u8]) -> Option<usize> {
+    |                                                        ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memchr/mod.rs:406:9
+    |
+406 |         None
+    |         ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+1   | use core::option::Option::None;
+    |
+1   | use crate::memmem::Prefilter::None;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/prefilter/fallback.rs:54:6
+   |
+54 | ) -> Option<usize> {
+   |      ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+31 | use core::option::Option;
+   |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/prefilter/fallback.rs:76:44
+   |
+76 |         if haystack.get(aligned_rare2i) != Some(&rare2) {
+   |                                            ^^^^ not found in this scope
+   |
+help: consider importing this tuple variant
+   |
+31 | use core::option::Option::Some;
+   |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/prefilter/fallback.rs:82:16
+   |
+82 |         return Some(i - rare1i);
+   |                ^^^^ not found in this scope
+   |
+help: consider importing this tuple variant
+   |
+31 | use core::option::Option::Some;
+   |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/prefilter/fallback.rs:88:5
+   |
+88 |     Some(i.saturating_sub(rare1i))
+   |     ^^^^ not found in this scope
+   |
+help: consider importing this tuple variant
+   |
+31 | use core::option::Option::Some;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/prefilter/mod.rs:38:10
+   |
+38 |     ) -> Option<usize> {
+   |          ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+1  | use core::option::Option;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/prefilter/mod.rs:93:6
+   |
+93 | ) -> Option<usize>;
+   |      ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+1  | use core::option::Option;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/prefilter/mod.rs:130:10
+    |
+130 |     ) -> Option<usize> {
+    |          ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0405]: cannot find trait `Default` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/prefilter/mod.rs:179:6
+    |
+179 | impl Default for Prefilter {
+    |      ^^^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+1   | use core::default::Default;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/prefilter/mod.rs:294:6
+    |
+294 | ) -> Option<PrefilterFn> {
+    |      ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/prefilter/mod.rs:296:16
+    |
+296 |         return None;
+    |                ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+1   | use core::option::Option::None;
+    |
+1   | use crate::memmem::Prefilter::None;
+    |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/prefilter/mod.rs:333:25
+    |
+333 |         return unsafe { Some(PrefilterFn::new(fallback::find)) };
+    |                         ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+1   | use core::option::Option::Some;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/prefilter/mod.rs:335:5
+    |
+335 |     None
+    |     ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+1   | use core::option::Option::None;
+    |
+1   | use crate::memmem::Prefilter::None;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/rabinkarp.rs:40:55
+   |
+40 | pub(crate) fn find(haystack: &[u8], needle: &[u8]) -> Option<usize> {
+   |                                                       ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+34 | use core::option::Option;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/rabinkarp.rs:50:6
+   |
+50 | ) -> Option<usize> {
+   |      ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+34 | use core::option::Option;
+   |
+
+error[E0425]: cannot find value `None` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/rabinkarp.rs:52:16
+   |
+52 |         return None;
+   |                ^^^^ not found in this scope
+   |
+help: consider importing one of these items
+   |
+34 | use core::option::Option::None;
+   |
+34 | use crate::memmem::Prefilter::None;
+   |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/rabinkarp.rs:60:20
+   |
+60 |             return Some(haystack.as_ptr() as usize - start);
+   |                    ^^^^ not found in this scope
+   |
+help: consider importing this tuple variant
+   |
+34 | use core::option::Option::Some;
+   |
+
+error[E0425]: cannot find value `None` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/rabinkarp.rs:63:20
+   |
+63 |             return None;
+   |                    ^^^^ not found in this scope
+   |
+help: consider importing one of these items
+   |
+34 | use core::option::Option::None;
+   |
+34 | use crate::memmem::Prefilter::None;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/rabinkarp.rs:71:56
+   |
+71 | pub(crate) fn rfind(haystack: &[u8], needle: &[u8]) -> Option<usize> {
+   |                                                        ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+34 | use core::option::Option;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/rabinkarp.rs:81:6
+   |
+81 | ) -> Option<usize> {
+   |      ^^^^^^ not found in this scope
+   |
+help: consider importing this enum
+   |
+34 | use core::option::Option;
+   |
+
+error[E0425]: cannot find value `None` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/rabinkarp.rs:83:16
+   |
+83 |         return None;
+   |                ^^^^ not found in this scope
+   |
+help: consider importing one of these items
+   |
+34 | use core::option::Option::None;
+   |
+34 | use crate::memmem::Prefilter::None;
+   |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/rabinkarp.rs:89:20
+   |
+89 |             return Some(haystack.len() - needle.len());
+   |                    ^^^^ not found in this scope
+   |
+help: consider importing this tuple variant
+   |
+34 | use core::option::Option::Some;
+   |
+
+error[E0425]: cannot find value `None` in this scope
+  --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/rabinkarp.rs:92:20
+   |
+92 |             return None;
+   |                    ^^^^ not found in this scope
+   |
+help: consider importing one of these items
+   |
+34 | use core::option::Option::None;
+   |
+34 | use crate::memmem::Prefilter::None;
+   |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:109:14
+    |
+109 |         pre: Option<&mut Pre<'_>>,
+    |              ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:112:10
+    |
+112 |     ) -> Option<usize> {
+    |          ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:154:18
+    |
+154 |         mut pre: Option<&mut Pre<'_>>,
+    |                  ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:158:10
+    |
+158 |     ) -> Option<usize> {
+    |          ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0531]: cannot find tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:164:20
+    |
+164 |             if let Some(pre) = pre.as_mut() {
+    |                    ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+1   | use core::option::Option::Some;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:170:32
+    |
+170 |                         return None;
+    |                                ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+1   | use core::option::Option::None;
+    |
+1   | use crate::memmem::Prefilter::None;
+    |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:191:28
+    |
+191 |                     return Some(pos);
+    |                            ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+1   | use core::option::Option::Some;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:197:9
+    |
+197 |         None
+    |         ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+1   | use core::option::Option::None;
+    |
+1   | use crate::memmem::Prefilter::None;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:203:18
+    |
+203 |         mut pre: Option<&mut Pre<'_>>,
+    |                  ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:207:10
+    |
+207 |     ) -> Option<usize> {
+    |          ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0531]: cannot find tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:211:20
+    |
+211 |             if let Some(pre) = pre.as_mut() {
+    |                    ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+1   | use core::option::Option::Some;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:215:32
+    |
+215 |                         return None;
+    |                                ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+1   | use core::option::Option::None;
+    |
+1   | use crate::memmem::Prefilter::None;
+    |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:237:24
+    |
+237 |                 return Some(pos);
+    |                        ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+1   | use core::option::Option::Some;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:240:9
+    |
+240 |         None
+    |         ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+1   | use core::option::Option::None;
+    |
+1   | use crate::memmem::Prefilter::None;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:279:10
+    |
+279 |     ) -> Option<usize> {
+    |          ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:316:10
+    |
+316 |     ) -> Option<usize> {
+    |          ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:339:28
+    |
+339 |                     return Some(pos - nlen);
+    |                            ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+1   | use core::option::Option::Some;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:345:9
+    |
+345 |         None
+    |         ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+1   | use core::option::Option::None;
+    |
+1   | use crate::memmem::Prefilter::None;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:354:10
+    |
+354 |     ) -> Option<usize> {
+    |          ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+1   | use core::option::Option;
+    |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:374:28
+    |
+374 |                     return Some(pos - nlen);
+    |                            ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+1   | use core::option::Option::Some;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/twoway.rs:379:9
+    |
+379 |         None
+    |         ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+1   | use core::option::Option::None;
+    |
+1   | use crate::memmem::Prefilter::None;
+    |
+
+error[E0405]: cannot find trait `Sized` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:190:35
+    |
+190 | pub fn find_iter<'h, 'n, N: 'n + ?Sized + AsRef<[u8]>>(
+    |                                   ^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+69  | use core::marker::Sized;
+    |
+
+error[E0405]: cannot find trait `AsRef` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:190:43
+    |
+190 | pub fn find_iter<'h, 'n, N: 'n + ?Sized + AsRef<[u8]>>(
+    |                                           ^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+69  | use core::convert::AsRef;
+    |
+
+error[E0405]: cannot find trait `Sized` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:224:36
+    |
+224 | pub fn rfind_iter<'h, 'n, N: 'n + ?Sized + AsRef<[u8]>>(
+    |                                    ^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+69  | use core::marker::Sized;
+    |
+
+error[E0405]: cannot find trait `AsRef` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:224:44
+    |
+224 | pub fn rfind_iter<'h, 'n, N: 'n + ?Sized + AsRef<[u8]>>(
+    |                                            ^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+69  | use core::convert::AsRef;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:259:48
+    |
+259 | pub fn find(haystack: &[u8], needle: &[u8]) -> Option<usize> {
+    |                                                ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+69  | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:296:49
+    |
+296 | pub fn rfind(haystack: &[u8], needle: &[u8]) -> Option<usize> {
+    |                                                 ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+69  | use core::option::Option;
+    |
+
+error[E0405]: cannot find trait `Iterator` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:347:14
+    |
+347 | impl<'h, 'n> Iterator for FindIter<'h, 'n> {
+    |              ^^^^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+69  | use core::iter::Iterator;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:350:27
+    |
+350 |     fn next(&mut self) -> Option<usize> {
+    |                           ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+69  | use core::option::Option;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:352:20
+    |
+352 |             return None;
+    |                    ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+69  | use core::option::Option::None;
+    |
+69  | use crate::memmem::Prefilter::None;
+    |
+
+error[E0531]: cannot find tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:360:13
+    |
+360 |             Some(i) => {
+    |             ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+69  | use core::option::Option::Some;
+    |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:363:17
+    |
+363 |                 Some(pos)
+    |                 ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+69  | use core::option::Option::Some;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:381:10
+    |
+381 |     pos: Option<usize>,
+    |          ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+69  | use core::option::Option;
+    |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:390:19
+    |
+390 |         let pos = Some(haystack.len());
+    |                   ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+69  | use core::option::Option::Some;
+    |
+
+error[E0405]: cannot find trait `Iterator` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:412:14
+    |
+412 | impl<'h, 'n> Iterator for FindRevIter<'h, 'n> {
+    |              ^^^^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+69  | use core::iter::Iterator;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:415:27
+    |
+415 |     fn next(&mut self) -> Option<usize> {
+    |                           ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+69  | use core::option::Option;
+    |
+
+error[E0531]: cannot find tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:418:13
+    |
+418 |             Some(pos) => pos,
+    |             ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+69  | use core::option::Option::Some;
+    |
+
+error[E0531]: cannot find tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:423:13
+    |
+423 |             Some(i) => {
+    |             ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+69  | use core::option::Option::Some;
+    |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:427:32
+    |
+427 |                     self.pos = Some(i);
+    |                                ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+69  | use core::option::Option::Some;
+    |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:429:17
+    |
+429 |                 Some(i)
+    |                 ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+69  | use core::option::Option::Some;
+    |
+
+error[E0405]: cannot find trait `Sized` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:456:20
+    |
+456 |     pub fn new<B: ?Sized + AsRef<[u8]>>(needle: &'n B) -> Finder<'n> {
+    |                    ^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+69  | use core::marker::Sized;
+    |
+
+error[E0405]: cannot find trait `AsRef` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:456:28
+    |
+456 |     pub fn new<B: ?Sized + AsRef<[u8]>>(needle: &'n B) -> Finder<'n> {
+    |                            ^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+69  | use core::convert::AsRef;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:484:44
+    |
+484 |     pub fn find(&self, haystack: &[u8]) -> Option<usize> {
+    |                                            ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+69  | use core::option::Option;
+    |
+
+error[E0405]: cannot find trait `Sized` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:583:20
+    |
+583 |     pub fn new<B: ?Sized + AsRef<[u8]>>(needle: &'n B) -> FinderRev<'n> {
+    |                    ^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+69  | use core::marker::Sized;
+    |
+
+error[E0405]: cannot find trait `AsRef` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:583:28
+    |
+583 |     pub fn new<B: ?Sized + AsRef<[u8]>>(needle: &'n B) -> FinderRev<'n> {
+    |                            ^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+69  | use core::convert::AsRef;
+    |
+
+error[E0405]: cannot find trait `AsRef` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:614:21
+    |
+614 |     pub fn rfind<B: AsRef<[u8]>>(&self, haystack: B) -> Option<usize> {
+    |                     ^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+69  | use core::convert::AsRef;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:614:57
+    |
+614 |     pub fn rfind<B: AsRef<[u8]>>(&self, haystack: B) -> Option<usize> {
+    |                                                         ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+69  | use core::option::Option;
+    |
+
+error[E0405]: cannot find trait `Sized` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:711:34
+    |
+711 |     pub fn build_forward<'n, B: ?Sized + AsRef<[u8]>>(
+    |                                  ^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+69  | use core::marker::Sized;
+    |
+
+error[E0405]: cannot find trait `AsRef` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:711:42
+    |
+711 |     pub fn build_forward<'n, B: ?Sized + AsRef<[u8]>>(
+    |                                          ^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+69  | use core::convert::AsRef;
+    |
+
+error[E0405]: cannot find trait `Sized` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:720:34
+    |
+720 |     pub fn build_reverse<'n, B: ?Sized + AsRef<[u8]>>(
+    |                                  ^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+69  | use core::marker::Sized;
+    |
+
+error[E0405]: cannot find trait `AsRef` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:720:42
+    |
+720 |     pub fn build_reverse<'n, B: ?Sized + AsRef<[u8]>>(
+    |                                          ^^^^^ not found in this scope
+    |
+help: consider importing this trait
+    |
+69  | use core::convert::AsRef;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:757:12
+    |
+757 |     prefn: Option<PrefilterFn>,
+    |            ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+69  | use core::option::Option;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:934:10
+    |
+934 |     ) -> Option<usize> {
+    |          ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+69  | use core::option::Option;
+    |
+
+error[E0425]: cannot find value `None` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:939:20
+    |
+939 |             return None;
+    |                    ^^^^ not found in this scope
+    |
+help: consider importing one of these items
+    |
+69  | use core::option::Option::None;
+    |
+69  | use crate::memmem::Prefilter::None;
+    |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:942:22
+    |
+942 |             Empty => Some(0),
+    |                      ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+69  | use core::option::Option::Some;
+    |
+
+error[E0412]: cannot find type `Option` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:996:10
+    |
+996 |     ) -> Option<usize> {
+    |          ^^^^^^ not found in this scope
+    |
+help: consider importing this enum
+    |
+69  | use core::option::Option;
+    |
+
+error[E0531]: cannot find tuple struct or tuple variant `Some` in this scope
+   --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:997:16
+    |
+997 |         if let Some(prefn) = self.prefn {
+    |                ^^^^ not found in this scope
+    |
+help: consider importing this tuple variant
+    |
+69  | use core::option::Option::Some;
+    |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+    --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:1005:32
+     |
+1005 |                 return tw.find(Some(&mut pre), haystack, needle);
+     |                                ^^^^ not found in this scope
+     |
+help: consider importing this tuple variant
+     |
+69   | use core::option::Option::Some;
+     |
+
+error[E0425]: cannot find value `None` in this scope
+    --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:1008:17
+     |
+1008 |         tw.find(None, haystack, needle)
+     |                 ^^^^ not found in this scope
+     |
+help: consider importing one of these items
+     |
+69   | use core::option::Option::None;
+     |
+69   | use crate::memmem::Prefilter::None;
+     |
+
+error[E0412]: cannot find type `Option` in this scope
+    --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:1109:41
+     |
+1109 |     fn rfind(&self, haystack: &[u8]) -> Option<usize> {
+     |                                         ^^^^^^ not found in this scope
+     |
+help: consider importing this enum
+     |
+69   | use core::option::Option;
+     |
+
+error[E0425]: cannot find value `None` in this scope
+    --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:1114:20
+     |
+1114 |             return None;
+     |                    ^^^^ not found in this scope
+     |
+help: consider importing one of these items
+     |
+69   | use core::option::Option::None;
+     |
+69   | use crate::memmem::Prefilter::None;
+     |
+
+error[E0425]: cannot find function, tuple struct or tuple variant `Some` in this scope
+    --> /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.5.0/src/memmem/mod.rs:1117:22
+     |
+1117 |             Empty => Some(haystack.len()),
+     |                      ^^^^ not found in this scope
+     |
+help: consider importing this tuple variant
+     |
+69   | use core::option::Option::Some;
+     |
+
+Some errors have detailed explanations: E0405, E0412, E0425, E0433, E0463, E0531.
+For more information about an error, try `rustc --explain E0405`.
+error: could not compile `memchr` due to 200 previous errors
+thread 'main' panicked at 'Failed with code 101: "cargo build --package zcore --no-default-features --features linux --target /home/ssf/zCore/zCore/riscv64.json -Z build-std=core,alloc -Z build-std-features=compiler-builtins-mem --release RUSTFLAGS=-C force-frame-pointers=yes"', /home/ssf/.cargo/registry/src/github.com-1ecc6299db9ec823/os-xtask-utils-0.0.0/src/lib.rs:110:13
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
